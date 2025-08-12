@@ -164,9 +164,6 @@ Backend(Render/Railway): 포트 PORT 노출, WebSocket 활성화
 📝 라이선스
 MIT (변경 가능)
 
-변경 기록
-2025-08-12: README 초안 생성 — 사용자 리스트 기능 반영
-
 yaml
 복사
 
