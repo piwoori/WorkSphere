@@ -12,7 +12,7 @@
 - 실시간 위치/상태 동기화 (Socket.io)
 - 포모도로 타이머(집중/휴식) & 상태 표시
 - 사용자 리스트 표시(온라인/오프라인)
-- (선택) 채팅, 로컬 집중 음악
+- 채팅, 로컬 집중 음악
 
 ## 🧱 기술 스택
 - **Frontend**: React, TypeScript, React Three Fiber(Three.js), Zustand, Vite
