@@ -42,9 +42,6 @@ root
 markdown
 복사
 
-## ⚡️ 실시간 이벤트 설계(초안)
-> 실제 구현에 맞춰 이름/페이로드 자유롭게 변경하세요.
-
 ### Connection
 - `connection` / `disconnect` : 기본 연결/해제
 
