@@ -20,7 +20,7 @@
 - **Backend**: Node.js + Express + Socket.io *(초기엔 간단 서버, 이후 Supabase/Firebase 대체 가능)*
 - **Deploy**: Vercel(프론트), Render/railway(백엔드)
 
-## 📦 폴더 구조(초안)
+## 📦 폴더 구조
 root
 ├─ client/ # React 앱 (Vite)
 │ ├─ src/
